@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="35"/>, I'm Vipin Sharma</h1>
 <h3 align="center">Loves to develop mobile apps and solve coding questions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmavipin101" alt="sharmavipin101" /> </p>
