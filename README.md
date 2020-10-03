@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [www.sharmavipin.me](www.sharmavipin.me)
+<!-- - 👨‍💻 All of my projects are available at [www.sharmavipin.me](www.sharmavipin.me)//-->
 
 - 💬 Ask me about **Data Structures and Algorithms, Flutter**
 
