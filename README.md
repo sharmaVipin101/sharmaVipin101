@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [www.sharmavipin.me](www.sharmavipin.me)//-->
 
-- 💬 Ask me about **Data Structures and Algorithms, Flutter**
+- 💬 Ask me about **Data Structures and Algorithms, Flutter, JavaScript**
 
 - 📫 How to reach me **sharmavipin594@gmail.com**
 
