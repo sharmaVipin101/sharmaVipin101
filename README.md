@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmavipin101" alt="sharmavipin101" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Android Development**
 
-<!-- - 👨‍💻 All of my projects are available at [www.sharmavipin.me](www.sharmavipin.me)//-->
+- 👨‍💻 All of my projects are available at [www.sharmavipin.me](www.sharmavipin.me)//
 
 - 💬 Ask me about **Data Structures and Algorithms, Flutter, JavaScript**
 
